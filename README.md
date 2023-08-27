@@ -10,4 +10,5 @@ FlansMod
 
 create a new region called "spawn"
 with the command /rg define spawn
-finish.
+
+that all.
