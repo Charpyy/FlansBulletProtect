@@ -3,8 +3,8 @@ FlansBulletProtect is a minecraft plugin that prevent player from shooting from 
 
 Dependency:
 
-WorldGuard 6.1
-FlansMod
+WorldGuard 6.1 (plugin)
+FlansModAPI-v1.3 (mod)
 
 **How its work:**
 
