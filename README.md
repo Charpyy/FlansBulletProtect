@@ -8,5 +8,6 @@ FlansMod
 
 **How its work:**
 
-create a new region called "spawn" 
+create a new region called "spawn"
+with the command /rg define spawn
 finish.
