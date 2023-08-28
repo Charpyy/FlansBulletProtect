@@ -13,4 +13,4 @@ with the command /rg define spawn
 
 that all.
 
-![alt text](https://imgur.com/a/IPPV1TS)
+![alt text]([https://imgur.com/a/IPPV1TS](https://imgur.com/a/IPPV1TS)https://imgur.com/a/IPPV1TS)
