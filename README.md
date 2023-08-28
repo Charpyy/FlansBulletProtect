@@ -17,3 +17,4 @@ that all.
 ![image](https://github.com/Charpyy/FlansBulletProtect/assets/76815325/25a7d558-25ff-4702-987a-da405ba97e4b)
 
 
+if u got any question feel free to contact me on discord: chapyy or Chapy#0001
