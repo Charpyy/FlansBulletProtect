@@ -13,4 +13,4 @@ with the command /rg define spawn
 
 that all.
 
-[<blockquote class="imgur-embed-pub" lang="en" data-id="a/IPPV1TS" data-context="false" ><a href="//imgur.com/a/IPPV1TS"](https://imgur.com/a/IPPV1TS)https://imgur.com/a/IPPV1TS
+https://imgur.com/a/IPPV1TS
